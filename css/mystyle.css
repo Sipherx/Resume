@@ -300,10 +300,6 @@ h2 {
 	#social{
 		text-align: center;
 	}
-	.work-employer, .work-location, .work-title, .work-date, .school-name, .school-location, .school-major, .school-date{
-		display: block;
-		clear: both;
-	}
 	
 }
 
@@ -312,9 +308,15 @@ h2 {
 		display: block;
 		padding-left: 15%;
 	}
-	.work-employer, .work-location, .work-title, .work-date,{
+	.work-employer, .work-location, .work-title, .work-date, .school-name, .school-location, .school-major, .school-date{
 		display: block;
 		clear: both;
+		padding: 2px;
+		float: none;
+		text-align: left;
+	}
+	.job-desc{
+		padding-top: 15px;
 	}
 		
 }
