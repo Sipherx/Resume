@@ -308,6 +308,9 @@ h2 {
 		display: block;
 		padding-left: 15%;
 	}
+	.work-date{
+		display: block;
+	}
 }
 
 /* taken from http://codepen.io/rdallaire/pen/gEBey */
