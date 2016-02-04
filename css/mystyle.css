@@ -300,6 +300,10 @@ h2 {
 	#social{
 		text-align: center;
 	}
+	.work-employer, .work-location, .work-title, .work-date, .school-name, .school-location, .school-major, .school-date{
+		display: block;
+		clear: both;
+	}
 	
 }
 
@@ -308,9 +312,11 @@ h2 {
 		display: block;
 		padding-left: 15%;
 	}
-	.work-date{
+	.work-employer, .work-location, .work-title, .work-date,{
 		display: block;
+		clear: both;
 	}
+		
 }
 
 /* taken from http://codepen.io/rdallaire/pen/gEBey */

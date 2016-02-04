@@ -155,10 +155,12 @@ var work = {
 $.each(work, function(k, v){
 	$.each(v, function(j, job){
 		$("#experience").append("<div class='work-list'></div>");
-		$(".work-list:last").append("<span class='work-employer'>" + job.employer + "</span>");
-		$(".work-list:last").append("<span class='work-location'>" + job.location + "</span><br>");
-		$(".work-list:last").append("<span class='work-title'>" + job.title + "</span>");
-		$(".work-list:last").append("<span class='work-date'>" + job.dates + "</span>");
+		$(".work-list:last").append("<div class='title1'></div>");
+		$(".work-list:last").append("<div class='title2'></div>");
+		$(".title1:last").append("<span class='work-employer'>" + job.employer + "</span>");
+		$(".title1:last").append("<span class='work-location'>" + job.location + "</span><br>");
+		$(".title2:last").append("<span class='work-title'>" + job.title + "</span>");
+		$(".title2:last").append("<span class='work-date'>" + job.dates + "</span>");
 		$(".work-list:last").append("<ul class='job-desc'></ul");
 			$.each(job.description, function(i,task){
 				$(".job-desc:last").append("<li>" + task + "</li>");
