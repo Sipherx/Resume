@@ -215,11 +215,18 @@ var proj = {
 			"detail": "Built from scratch using bootstrap. Inspired from Udacity's resume project. Mainly used jQuery to append JSON objects onto the page. Any user without coding knowledge is able to create this resume by just filling in the information in the JS file. However, there are some limitations to the auto-generating features that will be considered to include in the next version."
 			},
 			{
+			"title": "Stock Quote",
+			"image": "img/stock.png",
+			"link": "http://codepen.io/kains/pen/qbJmzL",
+			"detail": "Using Ajax to request stock price from Google Finance API. User is able to add desired stock quote through the form. Each stock list can be deleted by clicking on it"
+			},
+			{
 			"title": "Python",
 			"image": "img/python.png",
 			"link": "https://github.com/Sipherx/Automate-the-Boring-Stuff-with-Python-2015-.git",
 			"detail": "Completed most of the exercises in the book <em>Automate the Boring Stuff with Python</em>. Uploaded to GitHub to share the solutions. Also included some of the follow along exercises if someone couldn't run their codes properly"
 			}
+
 	]
 };
 
