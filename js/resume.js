@@ -44,8 +44,8 @@ var bio = {
 var skill = {
 	"HTML5": "80%",
 	"CSS3": "60%",
-	"Javascript": "40%",
-	"jQuery": "40%",
+	"Javascript": "50%",
+	"jQuery": "50%",
 	"Photoshop": "70%",
 	"Python": "40%"
 }
