@@ -42,12 +42,12 @@ var bio = {
 
 //get skill info
 var skill = {
-	"HTML5": "70%",
-	"CSS3": "50%",
-	"Javascript": "30%",
-	"jQuery": "30%",
-	"Photoshop": "60%",
-	"Python": "30%"
+	"HTML5": "80%",
+	"CSS3": "60%",
+	"Javascript": "40%",
+	"jQuery": "40%",
+	"Photoshop": "70%",
+	"Python": "40%"
 }
 
 $.each(skill, function(k, v){
