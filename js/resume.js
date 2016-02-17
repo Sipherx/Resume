@@ -219,7 +219,7 @@ var proj = {
 			"image": "img/quote.png",
 			"link": "http://codepen.io/kains/full/OMGRRJ/",
 			"detail": "Random quote machine project from freecodecamp. Used forismatic's API to generate random quotes. User is able to tweet the entire quote with a click on the twitter logo. Responsively deisgned so mobile users can also use it"
-			}，
+			},
 			{
 			"title": "Stock Quote",
 			"image": "img/stock.png",
