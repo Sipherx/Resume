@@ -218,7 +218,7 @@ var proj = {
 			"title": "Quote of the day",
 			"image": "img/quote.png",
 			"link": "http://codepen.io/kains/full/OMGRRJ/",
-			"detail": "Random quote machine project from freecodecamp. Used forismatic's API to generate random quotes. User is able to tweet the entire quote with a click on the twitter logo. Responsively deisgned so mobile users can also use it"
+			"detail": "Random quote machine project from freecodecamp. Used forismatic's API to generate random quotes. User is able to tweet the entire quote with a click on the Twitter logo. Responsively designed so mobile users can also use it"
 			},
 			{
 			"title": "Weather App",
