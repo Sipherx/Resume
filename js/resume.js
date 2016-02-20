@@ -221,6 +221,12 @@ var proj = {
 			"detail": "Random quote machine project from freecodecamp. Used forismatic's API to generate random quotes. User is able to tweet the entire quote with a click on the twitter logo. Responsively deisgned so mobile users can also use it"
 			},
 			{
+			"title": "Weather App",
+			"image": "img/weather.png",
+			"link": "http://codepen.io/kains/full/MKRZGv/",
+			"detail": "A responsive small weather app that obtains user's latitude and longitude using Geolocation. Then it passes these values to Openweathermap API and request for temperature, location, and weather condition. Weather icons set by <em>Erik Flowers </em>is implemented and it will change accordingly depending on the weather condition. User can switch between imperial and metric unit by clicking on Celsius or Fahrenheit."
+			},
+			{
 			"title": "Stock Quote",
 			"image": "img/stock.png",
 			"link": "http://codepen.io/kains/full/qbJmzL/",
