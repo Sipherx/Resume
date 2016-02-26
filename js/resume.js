@@ -215,10 +215,16 @@ var proj = {
 			"detail": "Built from scratch using bootstrap. Inspired from Udacity's resume project. Mainly used jQuery to append JSON objects onto the page. Any user without coding knowledge is able to create this resume by just filling in the information in the JS file. However, there are some limitations to the auto-generating features that will be considered to include in the next version."
 			},
 			{
+			"title": "Twitch Streaming List",
+			"image": "img/twitch.png",
+			"link": "http://codepen.io/kains/full/YqKOYx/",
+			"detail": "Used Twitch's API to generate lists of streamers in the array. The list includes a preview screenshoot of the broadcast, the avatar and name of the streamer, the game that is streaming, the title, and number of viewers currently watching. Streamers that are currently broadcasting will be pushed to the top of the list. If a streamer is offline or the account is closed, a status will be displayed."
+			},
+			{
 			"title": "Quote of the day",
 			"image": "img/quote.png",
 			"link": "http://codepen.io/kains/full/OMGRRJ/",
-			"detail": "Random quote machine project from freecodecamp. Used forismatic's API to generate random quotes. User is able to tweet the entire quote with a click on the Twitter logo. Responsively designed so mobile users can also use it"
+			"detail": "Used forismatic's API to generate random quotes. User is able to tweet the entire quote with a click on the Twitter logo. Responsively designed so mobile users can also use it"
 			},
 			{
 			"title": "Weather App",
@@ -231,6 +237,12 @@ var proj = {
 			"image": "img/stock.png",
 			"link": "http://codepen.io/kains/full/qbJmzL/",
 			"detail": "Using Ajax to request stock price from Google Finance API. User is able to add desired stock quote through the form. Each stock list can be deleted by clicking on it"
+			},
+			{
+			"title": "Wikipedia Article Search",
+			"image": "img/wiki.png",
+			"link": "http://codepen.io/kains/full/NxQwjX/",
+			"detail": "Used Wikipedia's API to look for related articles based on user's search query. The article title and a brief description will be generated. A random article link is also provided."
 			},
 			{
 			"title": "Python",
